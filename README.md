@@ -10,4 +10,4 @@ Author: Niveen ALsmadi Version: 1.0.0
 - Finish time: 4:00 pm
 
 ## Links:
-PR Link :[models](https://github.com/NiveenAlSmadi/django-crud/pull/1)
+PR Link :[CRUD](https://github.com/NiveenAlSmadi/django-crud/pull/1)
